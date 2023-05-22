@@ -37,7 +37,7 @@
     "postcss": "^8.4.18",
     "posthtml-include": "^1.7.4",
     "posthtml-load-config": "^2.0.0",
-    "sass": "^1.55.0",
+    "sass": "^1.62.1",
     "swiper": "^8.4.4"
   },
   "browserslist": [
@@ -46,6 +46,8 @@
     "Firefox ESR"
   ],
   "dependencies": {
-    "imask": "^6.4.3"
+    "gulp-sass-error": "^1.0.5",
+    "imask": "^6.4.3",
+    "node": "^20.2.0"
   }
 }
